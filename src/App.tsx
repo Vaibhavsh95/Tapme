@@ -15,7 +15,7 @@ function App() {
   };
 
   const telegramId = "8188886153:AAHRM1zL_EELdhq6Ilhdwr1TohClD8aUVXc"; // Get Telegram ID from URL
-  const API_URL = 'https://co3-labs-task-tapme-telegram-web-app.onrender.com';
+  const API_URL = 'https://tapmebackend-1.onrender.com';
 
   useEffect(() => {
     if (telegramId) {
